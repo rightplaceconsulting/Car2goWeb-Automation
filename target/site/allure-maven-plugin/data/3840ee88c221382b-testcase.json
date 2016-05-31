@@ -1,0 +1,38 @@
+{
+  "uid" : "3840ee88c221382b",
+  "name" : "Should perform Login to car2goweb with Invalid credentials",
+  "title" : "Should perform Login to car2goweb with Invalid credentials",
+  "time" : {
+    "start" : 1461765794173,
+    "stop" : 1461765795108,
+    "duration" : 935
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "f6f6b83d3c3b711d",
+    "name" : "Car2goweb application:",
+    "title" : "Car2goweb application:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Car2goweb application:"
+  }, {
+    "name" : "suite-title",
+    "value" : "Car2goweb application:"
+  } ],
+  "parameters" : [ ]
+}

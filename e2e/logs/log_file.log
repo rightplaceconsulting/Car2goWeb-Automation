@@ -1,0 +1,9 @@
+[2016-04-27 19:17:01.718] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 19:17:01.726] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 19:17:01.814] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 19:17:11.365] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 19:17:17.537] [INFO] login Base - Deleting user with user Email:: 2704201619150980@car2go.com
+[2016-04-27 19:17:22.819] [INFO] login Spec - Verifying all available columns in userList page
+[2016-04-27 19:17:25.414] [INFO] login Base - Performing logout from car2web application
+[2016-04-27 19:17:31.066] [INFO] login Spec - Logout successful from car2goweb application
+[2016-04-27 19:17:31.287] [INFO] console - [launcher] 0 instance(s) of WebDriver still running

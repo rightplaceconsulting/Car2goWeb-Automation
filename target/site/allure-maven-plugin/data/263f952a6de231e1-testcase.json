@@ -1,0 +1,38 @@
+{
+  "uid" : "263f952a6de231e1",
+  "name" : "Should verify created user in User List",
+  "title" : "Should verify created user in User List",
+  "time" : {
+    "start" : 1461342914626,
+    "stop" : 1461342919253,
+    "duration" : 4627
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "73d2b9017ebeefb9",
+    "name" : "Car2goweb application:",
+    "title" : "Car2goweb application:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Car2goweb application:"
+  }, {
+    "name" : "suite-title",
+    "value" : "Car2goweb application:"
+  } ],
+  "parameters" : [ ]
+}

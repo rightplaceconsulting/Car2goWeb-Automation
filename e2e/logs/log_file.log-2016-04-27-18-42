@@ -1,0 +1,15 @@
+[2016-04-27 18:42:03.721] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 18:42:03.728] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:42:03.768] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 18:42:11.848] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 18:42:23.803] [INFO] login Spec - User updated Successfully with Email:: 2704201618416730@car2go.com
+[2016-04-27 18:42:23.860] [INFO] login Base - Performing logout from car2web application
+[2016-04-27 18:42:29.216] [INFO] login Spec - Logout successful from car2goweb application
+[2016-04-27 18:42:29.236] [INFO] login Spec - Executing script on: 'qa' environment and 'chrome' browser
+[2016-04-27 18:42:29.243] [INFO] utility - browser.name:: chrome
+[2016-04-27 18:42:38.930] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 18:42:38.936] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:42:38.984] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 18:42:48.220] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 18:42:54.534] [INFO] login Base - Deleting user with user Email:: 2704201618416730@car2go.com
+[2016-04-27 18:42:59.491] [INFO] login Spec - Verifying all available columns in userList page

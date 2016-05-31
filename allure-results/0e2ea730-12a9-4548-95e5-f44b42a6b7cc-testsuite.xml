@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1461766500481" stop="1461766528240">
+	<name>Car2goweb application:</name>
+	<title>Car2goweb application:</title>
+	<test-cases>
+		<test-case start="1461766500746" stop="1461766508618" status="passed">
+			<name>Should Navigate to car2goweb </name>
+			<title>Should Navigate to car2goweb </title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766508620" stop="1461766509827" status="passed">
+			<name>Should perform Login to car2goweb with Invalid credentials</name>
+			<title>Should perform Login to car2goweb with Invalid credentials</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766509827" stop="1461766510987" status="passed">
+			<name>Should perform Login to car2goweb with Invalid credentials</name>
+			<title>Should perform Login to car2goweb with Invalid credentials</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766510987" stop="1461766511973" status="passed">
+			<name>Should perform Login to car2goweb with Invalid credentials</name>
+			<title>Should perform Login to car2goweb with Invalid credentials</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766511977" stop="1461766512953" status="passed">
+			<name>Should perform Login to car2goweb with Invalid credentials</name>
+			<title>Should perform Login to car2goweb with Invalid credentials</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766512953" stop="1461766522659" status="passed">
+			<name>Should Login to car2goweb </name>
+			<title>Should Login to car2goweb </title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766522659" stop="1461766528239" status="passed">
+			<name>Should Logout from car2goweb </name>
+			<title>Should Logout from car2goweb </title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

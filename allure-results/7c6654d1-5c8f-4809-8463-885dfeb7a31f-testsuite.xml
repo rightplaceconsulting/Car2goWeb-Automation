@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1461766580749" stop="1461766615075">
+	<name>Car2goweb application:</name>
+	<title>Car2goweb application:</title>
+	<test-cases>
+		<test-case start="1461766580751" stop="1461766587916" status="passed">
+			<name>Navigate to car2goweb </name>
+			<title>Navigate to car2goweb </title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766587916" stop="1461766597148" status="passed">
+			<name>Login to car2goweb </name>
+			<title>Login to car2goweb </title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766597148" stop="1461766601231" status="passed">
+			<name>Should search the created user in User List</name>
+			<title>Should search the created user in User List</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766601231" stop="1461766609563" status="passed">
+			<name>Should edit new user in car2goweb </name>
+			<title>Should edit new user in car2goweb </title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+		<test-case start="1461766609563" stop="1461766615072" status="passed">
+			<name>Should Logout from car2goweb </name>
+			<title>Should Logout from car2goweb </title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

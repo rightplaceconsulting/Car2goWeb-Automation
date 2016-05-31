@@ -1,0 +1,26 @@
+{
+  "qa": {
+    "userInfo": {
+      "firstName": "Automated",
+      "lastName": "QA",
+      "userEmail": "@car2go.com",
+      "password": "password",
+      "userStatus": "Active",
+      "userRole": "Agent",
+      "location": "Austin",
+      "createdUserEmail": "2704201619150980@car2go.com"
+    }
+  },
+  "stag": {
+    "userInfo": {
+      "firstName": "first",
+      "lastName": "last",
+      "userEmail": "@car2go.com",
+      "password": "password",
+      "userStatus": "Active",
+      "userRole": "Agent",
+      "location": "Austib",
+      "createdUserEmail": ""
+    }
+  }
+}

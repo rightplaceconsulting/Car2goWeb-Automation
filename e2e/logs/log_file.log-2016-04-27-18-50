@@ -1,0 +1,11 @@
+[2016-04-27 18:50:01.486] [INFO] utility - Selecting DropDown options With Name: Agent
+[2016-04-27 18:50:05.059] [INFO] utility - Selecting DropDown options With Name: Austin
+[2016-04-27 18:50:09.283] [INFO] utility - Selecting DropDown options With Name: Austin
+[2016-04-27 18:50:17.889] [INFO] login Spec - User Created Successfully with Email:: 2704201618493580@car2go.com
+[2016-04-27 18:50:22.080] [INFO] login Base - Performing logout from car2web application
+[2016-04-27 18:50:27.429] [INFO] login Spec - Logout successful from car2goweb application
+[2016-04-27 18:50:27.447] [INFO] login Spec - Executing script on: 'qa' environment and 'safari' browser
+[2016-04-27 18:50:27.454] [INFO] utility - browser.name:: safari
+[2016-04-27 18:50:53.608] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 18:50:53.613] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:50:53.666] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'

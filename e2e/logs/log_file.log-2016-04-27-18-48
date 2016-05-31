@@ -1,0 +1,5 @@
+[2016-04-27 18:48:32.009] [INFO] login Spec - Executing script on: 'qa' environment and 'safari' browser
+[2016-04-27 18:48:32.021] [INFO] utility - browser.name:: safari
+[2016-04-27 18:48:59.651] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 18:48:59.656] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:48:59.717] [INFO] login Base - Perfroming login with userName::' , password:: ''

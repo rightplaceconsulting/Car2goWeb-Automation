@@ -1,0 +1,23 @@
+[2016-04-27 18:49:00.795] [INFO] login Spec - Invalid credentials execution done for::' , password:: ''
+[2016-04-27 18:49:00.801] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:49:00.863] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: ''
+[2016-04-27 18:49:01.844] [INFO] login Spec - Invalid credentials execution done for::'admin@car2go.com , password:: ''
+[2016-04-27 18:49:01.848] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:49:01.903] [INFO] login Base - Perfroming login with userName::' , password:: 'password'
+[2016-04-27 18:49:02.609] [INFO] login Spec - Invalid credentials execution done for::' , password:: 'password'
+[2016-04-27 18:49:02.617] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:49:02.671] [INFO] login Base - Perfroming login with userName::'1544@car2go.com , password:: ''
+[2016-04-27 18:49:03.389] [INFO] login Spec - Invalid credentials execution done for::'1544@car2go.com , password:: ''
+[2016-04-27 18:49:03.396] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:49:03.445] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 18:49:12.202] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 18:49:12.878] [INFO] login Base - Performing logout from car2web application
+[2016-04-27 18:49:18.296] [INFO] login Spec - Logout successful from car2goweb application
+[2016-04-27 18:49:18.338] [INFO] login Spec - Executing script on: 'qa' environment and 'safari' browser
+[2016-04-27 18:49:18.342] [INFO] utility - browser.name:: safari
+[2016-04-27 18:49:43.141] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 18:49:43.146] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:49:43.209] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 18:49:53.929] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 18:49:56.314] [INFO] login Spec - User successfully Navigated to create new user Page
+[2016-04-27 18:49:58.143] [INFO] utility - Selecting DropDown options With Name: Active

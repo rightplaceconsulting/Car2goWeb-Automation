@@ -1,0 +1,38 @@
+{
+  "uid" : "13a4a21e85bb324",
+  "name" : "Should Logout from car2goweb ",
+  "title" : "Should Logout from car2goweb ",
+  "time" : {
+    "start" : 1461765981079,
+    "stop" : 1461765986408,
+    "duration" : 5329
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "f6f6b83d3c3b711d",
+    "name" : "Car2goweb application:",
+    "title" : "Car2goweb application:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Car2goweb application:"
+  }, {
+    "name" : "suite-title",
+    "value" : "Car2goweb application:"
+  } ],
+  "parameters" : [ ]
+}

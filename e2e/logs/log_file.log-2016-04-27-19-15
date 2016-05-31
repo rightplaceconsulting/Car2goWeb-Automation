@@ -1,0 +1,30 @@
+[2016-04-27 19:15:00.740] [INFO] login Spec - Executing script on: 'qa' environment and 'chrome' browser
+[2016-04-27 19:15:00.753] [INFO] utility - browser.name:: chrome
+[2016-04-27 19:15:08.613] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 19:15:08.624] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 19:15:08.695] [INFO] login Base - Perfroming login with userName::' , password:: ''
+[2016-04-27 19:15:09.823] [INFO] login Spec - Invalid credentials execution done for::' , password:: ''
+[2016-04-27 19:15:09.830] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 19:15:09.890] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: ''
+[2016-04-27 19:15:10.985] [INFO] login Spec - Invalid credentials execution done for::'admin@car2go.com , password:: ''
+[2016-04-27 19:15:10.990] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 19:15:11.053] [INFO] login Base - Perfroming login with userName::' , password:: 'password'
+[2016-04-27 19:15:11.969] [INFO] login Spec - Invalid credentials execution done for::' , password:: 'password'
+[2016-04-27 19:15:11.979] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 19:15:12.025] [INFO] login Base - Perfroming login with userName::'1544@car2go.com , password:: ''
+[2016-04-27 19:15:12.951] [INFO] login Spec - Invalid credentials execution done for::'1544@car2go.com , password:: ''
+[2016-04-27 19:15:12.961] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 19:15:13.067] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 19:15:22.657] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 19:15:22.780] [INFO] login Base - Performing logout from car2web application
+[2016-04-27 19:15:28.238] [INFO] login Spec - Logout successful from car2goweb application
+[2016-04-27 19:15:28.258] [INFO] login Spec - Executing script on: 'qa' environment and 'chrome' browser
+[2016-04-27 19:15:28.262] [INFO] utility - browser.name:: chrome
+[2016-04-27 19:15:34.920] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 19:15:34.925] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 19:15:34.975] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 19:15:43.685] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 19:15:47.030] [INFO] login Spec - User successfully Navigated to create new user Page
+[2016-04-27 19:15:49.005] [INFO] utility - Selecting DropDown options With Name: Active
+[2016-04-27 19:15:52.592] [INFO] utility - Selecting DropDown options With Name: Agent
+[2016-04-27 19:15:56.659] [INFO] utility - Selecting DropDown options With Name: Austin

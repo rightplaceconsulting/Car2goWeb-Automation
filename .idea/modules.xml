@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/car2goweb.iml" filepath="$PROJECT_DIR$/.idea/car2goweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protractor-allure-plugin-generate-html.iml" filepath="$PROJECT_DIR$/protractor-allure-plugin-generate-html.iml" />
+    </modules>
+  </component>
+</project>

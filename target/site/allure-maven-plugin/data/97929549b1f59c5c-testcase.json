@@ -1,0 +1,38 @@
+{
+  "uid" : "97929549b1f59c5c",
+  "name" : "Should delete created user from UserList page ",
+  "title" : "Should delete created user from UserList page ",
+  "time" : {
+    "start" : 1461342919253,
+    "stop" : 1461342926866,
+    "duration" : 7613
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "73d2b9017ebeefb9",
+    "name" : "Car2goweb application:",
+    "title" : "Car2goweb application:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Car2goweb application:"
+  }, {
+    "name" : "suite-title",
+    "value" : "Car2goweb application:"
+  } ],
+  "parameters" : [ ]
+}

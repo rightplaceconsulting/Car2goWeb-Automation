@@ -1,0 +1,75 @@
+{
+  "qa":{
+  "login": {
+	"url": "https://fleet-qa.car2go.com",
+    "PageTitle": "car2goweb - QA Environment",
+	"userloginId":"admin@car2go.com",
+	"password":"password",
+	"usePageHeader":"User Management"
+	
+  },
+    "loginInvalid": [{
+      "url": "https://fleet-qa.car2go.com",
+      "PageTitle": "car2goweb - QA Environment",
+      "userloginId":"",
+      "password":"",
+      "usePageHeader":"User Management"
+    },
+      {
+        "url": "https://fleet-qa.car2go.com",
+        "PageTitle": "car2goweb - QA Environment",
+        "userloginId":"admin@car2go.com",
+        "password":"",
+        "usePageHeader":"User Management"
+      },{
+        "url": "https://fleet-qa.car2go.com",
+        "PageTitle": "car2goweb - QA Environment",
+        "userloginId":"",
+        "password":"password",
+        "usePageHeader":"User Management"
+      },
+      {
+        "url": "https://fleet-qa.car2go.com",
+        "PageTitle": "car2goweb - QA Environment",
+        "userloginId":"1544@car2go.com",
+        "password":"",
+        "usePageHeader":"User Management"
+      }]
+  },
+  "stag":{
+    "login": {
+      "url": "https://fleet-qa.car2go.com",
+      "PageTitle": "car2goweb - QA Environment",
+	  "userloginId":"admin@car2go.com",
+	  "password":"password",
+	  "usePageHeader":"User Management"
+    },
+    "loginInvalid": [{
+      "url": "https://fleet-qa.car2go.com",
+      "PageTitle": "car2goweb - QA Environment",
+      "userloginId":"",
+      "password":"",
+      "usePageHeader":"User Management"
+    },
+      {
+        "url": "https://fleet-qa.car2go.com",
+        "PageTitle": "car2goweb - QA Environment",
+        "userloginId":"admin@car2go.com",
+        "password":"",
+        "usePageHeader":"User Management"
+      },{
+        "url": "https://fleet-qa.car2go.com",
+        "PageTitle": "car2goweb - QA Environment",
+        "userloginId":"",
+        "password":"password",
+        "usePageHeader":"User Management"
+      },
+      {
+        "url": "https://fleet-qa.car2go.com",
+        "PageTitle": "car2goweb - QA Environment",
+        "userloginId":"admin11544@car2go.com",
+        "password":"password12222",
+        "usePageHeader":"User Management"
+      }]
+  }
+}

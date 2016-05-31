@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: ru.yandex.qatools.allure:allure-report-face:war:1.4.15">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/allure/allure-report-face/1.4.15/allure-report-face-1.4.15.war!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/allure/allure-report-face/1.4.15/allure-report-face-1.4.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+[2016-04-27 18:40:28.404] [INFO] login Spec - Verifying all available columns in userList page
+[2016-04-27 18:40:30.859] [INFO] login Base - Performing logout from car2web application
+[2016-04-27 18:40:38.094] [INFO] login Spec - Logout successful from car2goweb application
+[2016-04-27 18:40:38.431] [INFO] console - [launcher] 0 instance(s) of WebDriver still running
+[2016-04-27 18:40:41.018] [INFO] login Spec - Executing script on: 'qa' environment and 'chrome' browser
+[2016-04-27 18:40:41.026] [INFO] utility - browser.name:: chrome
+[2016-04-27 18:40:48.432] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 18:40:48.437] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:40:48.482] [INFO] login Base - Perfroming login with userName::' , password:: ''
+[2016-04-27 18:40:49.330] [INFO] login Spec - Invalid credentials execution done for::' , password:: ''
+[2016-04-27 18:40:49.336] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:40:49.374] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: ''
+[2016-04-27 18:40:50.164] [INFO] login Spec - Invalid credentials execution done for::'admin@car2go.com , password:: ''
+[2016-04-27 18:40:50.167] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:40:50.203] [INFO] login Base - Perfroming login with userName::' , password:: 'password'
+[2016-04-27 18:40:50.845] [INFO] login Spec - Invalid credentials execution done for::' , password:: 'password'
+[2016-04-27 18:40:50.852] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:40:50.885] [INFO] login Base - Perfroming login with userName::'1544@car2go.com , password:: ''
+[2016-04-27 18:40:51.439] [INFO] login Spec - Invalid credentials execution done for::'1544@car2go.com , password:: ''
+[2016-04-27 18:40:51.443] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 18:40:51.473] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'

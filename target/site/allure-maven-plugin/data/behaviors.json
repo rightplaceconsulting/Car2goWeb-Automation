@@ -1,0 +1,279 @@
+{
+  "features" : [ {
+    "title" : "Without feature",
+    "statistic" : {
+      "total" : 23,
+      "passed" : 23,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "28af32ab90212376",
+      "title" : "Without story",
+      "statistic" : {
+        "total" : 23,
+        "passed" : 23,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "f015316640aff8b",
+        "name" : "Should Navigate to car2goweb ",
+        "title" : "Should Navigate to car2goweb ",
+        "time" : {
+          "start" : 1461766500746,
+          "stop" : 1461766508618,
+          "duration" : 7872
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "1a95ff63d1408320",
+        "name" : "Should perform Login to car2goweb with Invalid credentials",
+        "title" : "Should perform Login to car2goweb with Invalid credentials",
+        "time" : {
+          "start" : 1461766508620,
+          "stop" : 1461766509827,
+          "duration" : 1207
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "290eaee2671a5496",
+        "name" : "Should perform Login to car2goweb with Invalid credentials",
+        "title" : "Should perform Login to car2goweb with Invalid credentials",
+        "time" : {
+          "start" : 1461766509827,
+          "stop" : 1461766510987,
+          "duration" : 1160
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "1da65f5bdb36ef3",
+        "name" : "Should perform Login to car2goweb with Invalid credentials",
+        "title" : "Should perform Login to car2goweb with Invalid credentials",
+        "time" : {
+          "start" : 1461766510987,
+          "stop" : 1461766511973,
+          "duration" : 986
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "660006fb7993f824",
+        "name" : "Should perform Login to car2goweb with Invalid credentials",
+        "title" : "Should perform Login to car2goweb with Invalid credentials",
+        "time" : {
+          "start" : 1461766511977,
+          "stop" : 1461766512953,
+          "duration" : 976
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "265252f53dcec99e",
+        "name" : "Should Login to car2goweb ",
+        "title" : "Should Login to car2goweb ",
+        "time" : {
+          "start" : 1461766512953,
+          "stop" : 1461766522659,
+          "duration" : 9706
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "3bcfe42c84fc5817",
+        "name" : "Should Logout from car2goweb ",
+        "title" : "Should Logout from car2goweb ",
+        "time" : {
+          "start" : 1461766522659,
+          "stop" : 1461766528239,
+          "duration" : 5580
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "7b7942a13654b50f",
+        "name" : "Navigate to car2goweb ",
+        "title" : "Navigate to car2goweb ",
+        "time" : {
+          "start" : 1461766580751,
+          "stop" : 1461766587916,
+          "duration" : 7165
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "131f947ca95bf607",
+        "name" : "Login to car2goweb ",
+        "title" : "Login to car2goweb ",
+        "time" : {
+          "start" : 1461766587916,
+          "stop" : 1461766597148,
+          "duration" : 9232
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "53e0bedd56076b61",
+        "name" : "Should search the created user in User List",
+        "title" : "Should search the created user in User List",
+        "time" : {
+          "start" : 1461766597148,
+          "stop" : 1461766601231,
+          "duration" : 4083
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "58ba5a3113974a3a",
+        "name" : "Should edit new user in car2goweb ",
+        "title" : "Should edit new user in car2goweb ",
+        "time" : {
+          "start" : 1461766601231,
+          "stop" : 1461766609563,
+          "duration" : 8332
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "e881c13a819fa82b",
+        "name" : "Should Logout from car2goweb ",
+        "title" : "Should Logout from car2goweb ",
+        "time" : {
+          "start" : 1461766609563,
+          "stop" : 1461766615072,
+          "duration" : 5509
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "f4b716382075fe07",
+        "name" : "Navigate to car2goweb ",
+        "title" : "Navigate to car2goweb ",
+        "time" : {
+          "start" : 1461766615144,
+          "stop" : 1461766621720,
+          "duration" : 6576
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "c55d0721f5ed7788",
+        "name" : "Login to car2goweb ",
+        "title" : "Login to car2goweb ",
+        "time" : {
+          "start" : 1461766621720,
+          "stop" : 1461766631367,
+          "duration" : 9647
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "9326a0e298e97d5d",
+        "name" : "Should verify created user in User List",
+        "title" : "Should verify created user in User List",
+        "time" : {
+          "start" : 1461766631367,
+          "stop" : 1461766635485,
+          "duration" : 4118
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "b2916ef157864923",
+        "name" : "Should delete created user from UserList page ",
+        "title" : "Should delete created user from UserList page ",
+        "time" : {
+          "start" : 1461766635485,
+          "stop" : 1461766642816,
+          "duration" : 7331
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "af28fcfc6ae187d8",
+        "name" : "Should verify available columns in UserList page ",
+        "title" : "Should verify available columns in UserList page ",
+        "time" : {
+          "start" : 1461766642816,
+          "stop" : 1461766645324,
+          "duration" : 2508
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "d04ff341dfc44da8",
+        "name" : "Should Logout from car2goweb ",
+        "title" : "Should Logout from car2goweb ",
+        "time" : {
+          "start" : 1461766645324,
+          "stop" : 1461766651068,
+          "duration" : 5744
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "490cba6cf57e99f",
+        "name" : "Navigate to car2goweb ",
+        "title" : "Navigate to car2goweb ",
+        "time" : {
+          "start" : 1461766528259,
+          "stop" : 1461766534921,
+          "duration" : 6662
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "15379937ca36114",
+        "name" : "Login to car2goweb ",
+        "title" : "Login to car2goweb ",
+        "time" : {
+          "start" : 1461766534921,
+          "stop" : 1461766543687,
+          "duration" : 8766
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "7988f8d6cd4b4575",
+        "name" : "Should Create new user in car2goweb ",
+        "title" : "Should Create new user in car2goweb ",
+        "time" : {
+          "start" : 1461766543687,
+          "stop" : 1461766571085,
+          "duration" : 27398
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "57517ab78d97d6f0",
+        "name" : "Should verify created user in User List",
+        "title" : "Should verify created user in User List",
+        "time" : {
+          "start" : 1461766571085,
+          "stop" : 1461766575168,
+          "duration" : 4083
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "486bf86ce0598f4d",
+        "name" : "Should Logout from car2goweb ",
+        "title" : "Should Logout from car2goweb ",
+        "time" : {
+          "start" : 1461766575168,
+          "stop" : 1461766580687,
+          "duration" : 5519
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

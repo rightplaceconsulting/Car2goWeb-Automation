@@ -1,0 +1,38 @@
+{
+  "uid" : "c30f91f1a54dba8f",
+  "name" : "Should Login to car2goweb ",
+  "title" : "Should Login to car2goweb ",
+  "time" : {
+    "start" : 1461340811671,
+    "stop" : 1461340820967,
+    "duration" : 9296
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b47ca16763495d64",
+    "name" : "Car2goweb application:",
+    "title" : "Car2goweb application:"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Car2goweb application:"
+  }, {
+    "name" : "suite-title",
+    "value" : "Car2goweb application:"
+  } ],
+  "parameters" : [ ]
+}
