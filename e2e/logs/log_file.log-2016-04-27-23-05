@@ -1,0 +1,8 @@
+[2016-04-27 23:05:31.595] [INFO] login Spec - Executing script on: 'qa' environment and 'safari' browser
+[2016-04-27 23:05:31.606] [INFO] utility - browser.name:: safari
+[2016-04-27 23:05:58.668] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 23:05:58.672] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:05:58.740] [INFO] login Base - Perfroming login with userName::' , password:: ''
+[2016-04-27 23:05:59.757] [INFO] login Spec - Invalid credentials execution done for::' , password:: ''
+[2016-04-27 23:05:59.762] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:05:59.834] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: ''

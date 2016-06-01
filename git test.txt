@@ -1,3 +1,0 @@
-git test
-hello world
-this is first upload file test

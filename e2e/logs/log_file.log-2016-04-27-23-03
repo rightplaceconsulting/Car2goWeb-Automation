@@ -1,0 +1,22 @@
+[2016-04-27 23:03:06.972] [INFO] login Spec - Successfully Navigated to home page of car2goweb
+[2016-04-27 23:03:06.980] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:03:07.090] [INFO] login Base - Perfroming login with userName::' , password:: ''
+[2016-04-27 23:03:08.770] [INFO] login Spec - Invalid credentials execution done for::' , password:: ''
+[2016-04-27 23:03:08.774] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:03:08.852] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: ''
+[2016-04-27 23:03:10.604] [INFO] login Spec - Invalid credentials execution done for::'admin@car2go.com , password:: ''
+[2016-04-27 23:03:10.608] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:03:10.753] [INFO] login Base - Perfroming login with userName::' , password:: 'password'
+[2016-04-27 23:03:12.502] [INFO] login Spec - Invalid credentials execution done for::' , password:: 'password'
+[2016-04-27 23:03:12.507] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:03:12.585] [INFO] login Base - Perfroming login with userName::'1544@car2go.com , password:: ''
+[2016-04-27 23:03:14.331] [INFO] login Spec - Invalid credentials execution done for::'1544@car2go.com , password:: ''
+[2016-04-27 23:03:14.336] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:03:14.419] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 23:03:24.000] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 23:03:26.895] [INFO] login Spec - User successfully Navigated to create new user Page
+[2016-04-27 23:03:30.165] [INFO] utility - Selecting DropDown options With Name: Active
+[2016-04-27 23:03:34.565] [INFO] utility - Selecting DropDown options With Name: Agent
+[2016-04-27 23:03:39.124] [INFO] utility - Selecting DropDown options With Name: Austin
+[2016-04-27 23:03:44.277] [INFO] utility - Selecting DropDown options With Name: Austin
+[2016-04-27 23:03:54.113] [INFO] login Spec - User Created Successfully with Email:: 2704201623039260@car2go.com

@@ -1,7 +1,0 @@
-[2016-04-27 18:34:03.431] [INFO] login Spec - Logout successful from car2goweb application
-[2016-04-27 18:34:03.526] [INFO] login Spec - Executing script on: 'qa' environment and 'firefox' browser
-[2016-04-27 18:34:03.531] [INFO] utility - browser.name:: firefox
-[2016-04-27 18:34:10.451] [INFO] login Spec - Successfully Navigated to home page of car2goweb
-[2016-04-27 18:34:10.457] [INFO] login Spec - Performing login to car2goweb application
-[2016-04-27 18:34:10.546] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
-[2016-04-27 18:34:20.669] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'

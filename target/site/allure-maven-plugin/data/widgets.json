@@ -14,8 +14,8 @@
     "data" : [ {
       "title" : "Car2goweb application:",
       "statistic" : {
-        "total" : 23,
-        "passed" : 23,
+        "total" : 13,
+        "passed" : 13,
         "pending" : 0,
         "canceled" : 0,
         "failed" : 0,
@@ -28,8 +28,8 @@
     "data" : [ {
       "title" : "Without feature",
       "statistic" : {
-        "total" : 23,
-        "passed" : 23,
+        "total" : 13,
+        "passed" : 13,
         "pending" : 0,
         "canceled" : 0,
         "failed" : 0,

@@ -90,7 +90,7 @@ exports.config = {
     multiCapabilities: [{
         'browserName': 'chrome',
         'name': 'card2goweb',
-         specs: ['e2e/speces/login-spec.js','e2e/speces/user-spec.js','e2e/speces/edit-user-spec.js','e2e/speces/delete-user-spec.js'],
+        specs: ['e2e/speces/login-user-spec.js'],
         shardTestFiles: false,
         maxInstances: 1
     }/**,

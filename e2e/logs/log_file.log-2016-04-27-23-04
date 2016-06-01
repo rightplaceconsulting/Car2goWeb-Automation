@@ -1,0 +1,6 @@
+[2016-04-27 23:04:08.065] [INFO] login Spec - User updated Successfully with Email:: 2704201623039260@car2go.com
+[2016-04-27 23:04:14.262] [INFO] login Base - Deleting user with user Email:: 2704201623039260@car2go.com
+[2016-04-27 23:04:20.292] [INFO] login Spec - Verifying all available columns in userList page
+[2016-04-27 23:04:22.785] [INFO] login Base - Performing logout from car2web application
+[2016-04-27 23:04:28.909] [INFO] login Spec - Logout successful from car2goweb application
+[2016-04-27 23:04:30.554] [INFO] console - [launcher] 0 instance(s) of WebDriver still running

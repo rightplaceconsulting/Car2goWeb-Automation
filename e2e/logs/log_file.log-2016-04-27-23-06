@@ -1,0 +1,20 @@
+[2016-04-27 23:06:00.751] [INFO] login Spec - Invalid credentials execution done for::'admin@car2go.com , password:: ''
+[2016-04-27 23:06:00.755] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:06:00.816] [INFO] login Base - Perfroming login with userName::' , password:: 'password'
+[2016-04-27 23:06:01.546] [INFO] login Spec - Invalid credentials execution done for::' , password:: 'password'
+[2016-04-27 23:06:01.552] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:06:01.602] [INFO] login Base - Perfroming login with userName::'1544@car2go.com , password:: ''
+[2016-04-27 23:06:02.337] [INFO] login Spec - Invalid credentials execution done for::'1544@car2go.com , password:: ''
+[2016-04-27 23:06:02.342] [INFO] login Spec - Performing login to car2goweb application
+[2016-04-27 23:06:02.392] [INFO] login Base - Perfroming login with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 23:06:10.502] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 23:06:12.830] [INFO] login Spec - User successfully Navigated to create new user Page
+[2016-04-27 23:06:14.350] [INFO] utility - Selecting DropDown options With Name: Active
+[2016-04-27 23:06:17.660] [INFO] utility - Selecting DropDown options With Name: Agent
+[2016-04-27 23:06:21.185] [INFO] utility - Selecting DropDown options With Name: Austin
+[2016-04-27 23:06:25.208] [INFO] utility - Selecting DropDown options With Name: Austin
+[2016-04-27 23:06:33.802] [INFO] login Spec - User Created Successfully with Email:: 2704201623068620@car2go.com
+[2016-04-27 23:06:44.833] [INFO] login Spec - User updated Successfully with Email:: 2704201623068620@car2go.com
+[2016-04-27 23:06:50.434] [INFO] login Base - Deleting user with user Email:: 2704201623068620@car2go.com
+[2016-04-27 23:06:55.255] [INFO] login Spec - Verifying all available columns in userList page
+[2016-04-27 23:06:57.538] [INFO] login Base - Performing logout from car2web application

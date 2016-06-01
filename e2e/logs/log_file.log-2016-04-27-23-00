@@ -1,0 +1,11 @@
+[2016-04-27 23:00:05.779] [INFO] login Spec - login successful with userName::'admin@car2go.com , password:: 'password'
+[2016-04-27 23:00:08.568] [INFO] login Spec - User successfully Navigated to create new user Page
+[2016-04-27 23:00:10.072] [INFO] utility - Selecting DropDown options With Name: Active
+[2016-04-27 23:00:13.537] [INFO] utility - Selecting DropDown options With Name: Agent
+[2016-04-27 23:00:17.337] [INFO] utility - Selecting DropDown options With Name: Austin
+[2016-04-27 23:00:22.140] [INFO] utility - Selecting DropDown options With Name: Austin
+[2016-04-27 23:00:31.497] [INFO] login Spec - User Created Successfully with Email:: 2704201623006050@car2go.com
+[2016-04-27 23:00:43.179] [INFO] login Spec - User updated Successfully with Email:: 2704201623006050@car2go.com
+[2016-04-27 23:00:48.885] [INFO] login Base - Deleting user with user Email:: 2704201623006050@car2go.com
+[2016-04-27 23:00:53.951] [INFO] login Spec - Verifying all available columns in userList page
+[2016-04-27 23:00:56.321] [INFO] login Base - Performing logout from car2web application

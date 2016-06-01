@@ -1,5 +1,0 @@
-[2016-04-27 18:52:00.928] [INFO] login Base - Deleting user with user Email:: 2704201618493580@car2go.com
-[2016-04-27 18:52:06.728] [INFO] login Spec - Verifying all available columns in userList page
-[2016-04-27 18:52:09.052] [INFO] login Base - Performing logout from car2web application
-[2016-04-27 18:52:14.310] [INFO] login Spec - Logout successful from car2goweb application
-[2016-04-27 18:52:14.725] [INFO] console - Shutting down selenium standalone server.
